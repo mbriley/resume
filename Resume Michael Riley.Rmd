@@ -1,0 +1,65 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: cv-latex.tex
+geometry: margin=.5in
+
+title: ""
+author: Michael Riley
+
+fontawesome: yes
+email: troutmikeriley@gmail.com
+github: github.com/mbriley
+phone: "516-672-2690"
+updated: no
+
+keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+urlcolor: blue
+---
+# Experience 
+
+**Senior Process Engineering Data Analyst** \hfill February 2018 - Present    
+*Memorial Sloan Kettering Cancer Center, New York, NY*
+
+- Collected, analyzed, and presented data on hospital operations to Executive Leadership. Results informed both short and long term solutions to mission critical capacity constraints.
+- Performed statistical analyses of multiple clinical initiatives in collaboration with clinicians and administrators. Results helped ensure that our initiatives enhanced operational efficiency without harming patient outcomes.
+- Provided data processing and analytical support for dozens of process improvement projects run by team members. Helped mentor and train a team of Process Engineers on SQL, R, and Git.
+- Collaborated actively with data analysts across the organization. Developed functionality and approved pull requests for submissions to internally maintained R package.
+
+**Data Scientist** \hfill September 2017 - January 2018  
+*Mattersight Corporation, Chicago, IL*
+
+- Developed and contributed to internal R package for data processing, model fitting, and prediction.
+
+**Data Scientist** \hfill July 2015 - August 2017  
+*University of Chicago Urban Labs, Chicago, IL*
+
+- Trained, evaluated, and analyzed predictive models on multiple large administrative datasets using Machine Learning algorithms and regression techniques.
+- Conducted statistical analyses and created data visualizations for review by government agencies, academic partners, and philanthropists, as well as for academic and mainstream publications.
+- Recruited, interviewed, and oversaw work of research assistants and junior data analysts.
+
+**Economist** \hfill October 2008 - August 2013  
+*American Society of Composers, Authors, and Publishers*
+
+- Oversaw the design and implementation of a quarterly survey of musical works performed over Internet licensees. Assisted in the design of a survey of musical works performed over Television and Radio. 
+- Contributed to the distribution of license fees based on survey results.
+
+# Education
+
+**University of Chicago, Harris School** \hfill 2013 - 2015  
+*Masters in Public Policy*
+
+**New York University, College of Arts and Sciences** \hfill 2004 - 2008  
+*Bachelor of Arts, Cum Laude. Economics and Music*
+
+# Technical skills
+
+- Data manipulation and analysis - advanced R (tidyverse, data.table), intermediate Python (Pandas, NumPy), 10+ years SQL.
+- Machine Learning  - caret, xgboost, glmnet, randomForest, scikit-learn.
+- Data Visualization (ggplot2, htmlwidgets, beginner D3).
+- Reproducible research and version control (Git, RMarkdown).
