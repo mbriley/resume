@@ -5,7 +5,7 @@ output:
     template: cv-latex.tex
 geometry: margin=.5in
 
-title: ""
+title: "Resume"
 author: Michael Riley
 
 fontawesome: yes
@@ -26,9 +26,9 @@ urlcolor: blue
 **Senior Process Engineering Data Analyst** \hfill February 2018 - Present    
 *Memorial Sloan Kettering Cancer Center, New York, NY*
 
-- Collected, analyzed, and presented data on hospital operations to Executive Leadership. Results informed both short and long term solutions to mission critical capacity constraints.
-- Performed statistical analyses of multiple clinical initiatives in collaboration with clinicians and administrators. Results helped ensure that our initiatives enhanced operational efficiency without harming patient outcomes.
-- Provided data processing and analytical support for dozens of process improvement projects run by team members. Helped mentor and train a team of Process Engineers on SQL, R, and Git.
+- Collected, analyzed, and presented data on hospital operations to Executive Leadership. Results informed both short and long term investments in mission critical capacity investments.
+- Performed statistical analyses of multiple clinical initiatives in collaboration with clinicians and administrators. Results helped ensure that our initiatives improved operational efficiency without harming patient outcomes.
+- Provided data processing and analytical support for dozens of process improvement projects and initiatives. Trained and mentored Process Engineers, Project Managers, and other analysts on SQL, R, and Git.
 - Collaborated actively with data analysts across the organization. Developed functionality and approved pull requests for submissions to internally maintained R package.
 
 **Data Scientist** \hfill September 2017 - January 2018  
@@ -47,7 +47,7 @@ urlcolor: blue
 *American Society of Composers, Authors, and Publishers*
 
 - Oversaw the design and implementation of a quarterly survey of musical works performed over Internet licensees. Assisted in the design of a survey of musical works performed over Television and Radio. 
-- Contributed to the distribution of license fees based on survey results.
+- Contributed to the distribution of license fees to over 400,000 members based on survey results.
 
 # Education
 
