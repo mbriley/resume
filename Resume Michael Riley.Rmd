@@ -26,7 +26,7 @@ urlcolor: blue
 **Senior Process Engineering Data Analyst** \hfill February 2018 - Present    
 *Memorial Sloan Kettering Cancer Center, New York, NY*
 
-- Collected, analyzed, and presented data on hospital operations to Executive Leadership. Results informed both short and long term investments in mission critical capacity investments.
+- Collected, analyzed, and presented data on hospital operations to Executive Leadership. Results informed both short and long term investments in mission critical capacity enhancements.
 - Performed statistical analyses of multiple clinical initiatives in collaboration with clinicians and administrators. Results helped ensure that our initiatives improved operational efficiency without harming patient outcomes.
 - Provided data processing and analytical support for dozens of process improvement projects and initiatives. Trained and mentored Process Engineers, Project Managers, and other analysts on SQL, R, and Git.
 - Collaborated actively with data analysts across the organization. Developed functionality and approved pull requests for submissions to internally maintained R package.
