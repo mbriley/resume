@@ -31,17 +31,18 @@ urlcolor: blue
 - Provided data processing and analytical support for dozens of process improvement projects and initiatives. Trained and mentored Process Engineers, Project Managers, and other analysts on SQL, R, and Git.
 - Collaborated actively with data analysts across the organization. Developed functionality and approved pull requests for submissions to internally maintained R package.
 
-**Data Scientist** \hfill September 2017 - January 2018  
-*Mattersight Corporation, Chicago, IL*
-
-- Developed and contributed to internal R package for data processing, model fitting, and prediction.
-
 **Data Scientist** \hfill July 2015 - August 2017  
 *University of Chicago Urban Labs, Chicago, IL*
 
 - Trained, evaluated, and analyzed predictive models on multiple large administrative datasets using Machine Learning algorithms and regression techniques.
 - Conducted statistical analyses and created data visualizations for review by government agencies, academic partners, and philanthropists, as well as for academic and mainstream publications.
 - Recruited, interviewed, and oversaw work of research assistants and junior data analysts.
+
+**Research Fellow** \hfill June 2014 - June 2015  
+*Cook County Sheriff's Office, Chicago, IL*
+
+- Collected and analyzed data to evaluate efficacy of various alternatives to pre-trial detention.
+- Conducated ad-hoc analyses and reports for executive staff and presented results. 
 
 **Economist** \hfill October 2008 - August 2013  
 *American Society of Composers, Authors, and Publishers*
